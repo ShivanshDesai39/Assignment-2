@@ -1,0 +1,13 @@
+C:\Users\shiva\source\repos\FtpApp1\bin\Debug\netcoreapp3.1\FtpApp1.exe
+C:\Users\shiva\source\repos\FtpApp1\bin\Debug\netcoreapp3.1\FtpApp1.deps.json
+C:\Users\shiva\source\repos\FtpApp1\bin\Debug\netcoreapp3.1\FtpApp1.runtimeconfig.json
+C:\Users\shiva\source\repos\FtpApp1\bin\Debug\netcoreapp3.1\FtpApp1.runtimeconfig.dev.json
+C:\Users\shiva\source\repos\FtpApp1\bin\Debug\netcoreapp3.1\FtpApp1.dll
+C:\Users\shiva\source\repos\FtpApp1\bin\Debug\netcoreapp3.1\FtpApp1.pdb
+C:\Users\shiva\source\repos\FtpApp1\obj\Debug\netcoreapp3.1\FtpApp1.csprojAssemblyReference.cache
+C:\Users\shiva\source\repos\FtpApp1\obj\Debug\netcoreapp3.1\FtpApp1.AssemblyInfoInputs.cache
+C:\Users\shiva\source\repos\FtpApp1\obj\Debug\netcoreapp3.1\FtpApp1.AssemblyInfo.cs
+C:\Users\shiva\source\repos\FtpApp1\obj\Debug\netcoreapp3.1\FtpApp1.csproj.CoreCompileInputs.cache
+C:\Users\shiva\source\repos\FtpApp1\obj\Debug\netcoreapp3.1\FtpApp1.dll
+C:\Users\shiva\source\repos\FtpApp1\obj\Debug\netcoreapp3.1\FtpApp1.pdb
+C:\Users\shiva\source\repos\FtpApp1\obj\Debug\netcoreapp3.1\FtpApp1.genruntimeconfig.cache
